@@ -1,5 +1,4 @@
 import time
-import re
 
 start_time = time.time()
 
